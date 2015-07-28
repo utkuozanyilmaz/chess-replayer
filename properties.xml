@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="drawText">Draw</entry>
+<entry key="whiteBackgroundImageFilePath">.\images\whiteBackground.png</entry>
+<entry key="emptyTileImageFilePath">.\images\emptyTile.png</entry>
+<entry key="fileCImageFilePath">.\images\fileC.png</entry>
+<entry key="whiteKingImageFilePath">.\images\whiteKing.png</entry>
+<entry key="frameTitle">Chess Replayer</entry>
+<entry key="rank6ImageFilePath">.\images\rank6.png</entry>
+<entry key="blackWinsText">Black Wins</entry>
+<entry key="rank2ImageFilePath">.\images\rank2.png</entry>
+<entry key="whiteWinsText">White Wins</entry>
+<entry key="emptySquareImageFilePath">.\images\emptySquare.png</entry>
+<entry key="fileFImageFilePath">.\images\fileF.png</entry>
+<entry key="stopAutoPlayButtonImageFilePath">.\images\stopAutoPlay.png</entry>
+<entry key="fileBImageFilePath">.\images\fileB.png</entry>
+<entry key="whiteBishopImageFilePath">.\images\whiteBishop.png</entry>
+<entry key="rank5ImageFilePath">.\images\rank5.png</entry>
+<entry key="blackRookImageFilePath">.\images\blackRook.png</entry>
+<entry key="rank1ImageFilePath">.\images\rank1.png</entry>
+<entry key="blackPawnImageFilePath">.\images\blackPawn.png</entry>
+<entry key="fileEImageFilePath">.\images\fileE.png</entry>
+<entry key="whiteKnightImageFilePath">.\images\whiteKnight.png</entry>
+<entry key="rank8ImageFilePath">.\images\rank8.png</entry>
+<entry key="fileAImageFilePath">.\images\fileA.png</entry>
+<entry key="blackKingImageFilePath">.\images\blackKing.png</entry>
+<entry key="rank4ImageFilePath">.\images\rank4.png</entry>
+<entry key="startAutoPlayButtonImageFilePath">.\images\startAutoPlay.png</entry>
+<entry key="fileHImageFilePath">.\images\fileH.png</entry>
+<entry key="playOneMoveButtonImageFilePath">.\images\playOneMove.png</entry>
+<entry key="takeBackOneMoveButtonImageFilePath">.\images\takeBackOneMove.png</entry>
+<entry key="fileDImageFilePath">.\images\fileD.png</entry>
+<entry key="whiteQueenImageFilePath">.\images\whiteQueen.png</entry>
+<entry key="blackBishopImageFilePath">.\images\blackBishop.png</entry>
+<entry key="turnTime">1000</entry>
+<entry key="rank7ImageFilePath">.\images\rank7.png</entry>
+<entry key="blackQueenImageFilePath">.\images\blackQueen.png</entry>
+<entry key="destinationBackgroundImageFilePath">.\images\destinationBackground.png</entry>
+<entry key="whiteRookImageFilePath">.\images\whiteRook.png</entry>
+<entry key="rank3ImageFilePath">.\images\rank3.png</entry>
+<entry key="blackBackgroundImageFilePath">.\images\blackBackground.png</entry>
+<entry key="whitePawnImageFilePath">.\images\whitePawn.png</entry>
+<entry key="fileGImageFilePath">.\images\fileG.png</entry>
+<entry key="blackKnightImageFilePath">.\images\blackKnight.png</entry>
+<entry key="sourceBackgroundImageFilePath">.\images\sourceBackground.png</entry>
+</properties>
